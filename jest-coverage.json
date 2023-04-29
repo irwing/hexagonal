@@ -1,0 +1,11 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "transform": { "^.+\\.(t|j)s$": "ts-jest" },
+  "coveragePathIgnorePatterns": [
+    "/src/main.ts",
+    "/src/app.module.ts",
+    "/src/app.controller.ts",
+    "/src/app.service.ts",
+    "/src/users/users.module.ts"
+  ]
+}

@@ -1,0 +1,15 @@
+- ✅ Create Module
+- ✅ Create Controller
+- ✅ Create Types
+- ✅ Create Mock Data
+- ✅ Create Unit Tests for Controller
+- ✅ Create Dto
+- ✅ Add Request Validation with Dto
+- ✅ Create Custom Exception Errors
+- ✅ Transform types received from the Request
+- ✅ Create Service
+- ✅ Migrate Logic from Controller to Service
+- ✅ Add logger with Pino
+- ✅ Migrate Types to Domain
+- 🚫
+- 🚫 
